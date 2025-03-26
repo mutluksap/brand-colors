@@ -13,8 +13,8 @@ Easily access popular brand colors such as Netflix, Facebook, Google, and more.
 To get started, clone the repository:
 
 ```sh
-git clone https://github.com/mutluksap/brandcolors
-cd brandcolors
+git clone https://github.com/mutluksap/brand-colors
+cd brand-colors
 ```
 
 ## Usage
