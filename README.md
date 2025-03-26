@@ -5,7 +5,6 @@ Easily access popular brand colors such as Netflix, Facebook, Google, and more.
 ## Features
 
 - A collection of popular brand colors
-- Easy-to-use API or static file access
 - Organized color data for developers and designers
 
 ## Installation
